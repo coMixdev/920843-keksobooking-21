@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Тимур](https://up.htmlacademy.ru/javascript/21/user/920843).
-* Наставник: `Неизвестно`.
+* Наставник: `Роман`.
 
 ---
 
